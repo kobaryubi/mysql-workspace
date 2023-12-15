@@ -1,0 +1,5 @@
+SELECT SIN(PI()/4), (4+1)*5;
+
+SHOW DATABASES;
+
+USE mysql;
